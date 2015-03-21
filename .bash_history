@@ -112,3 +112,8 @@ vagrant up
 vagrant ssh
 vagrant up
 vagrant ssh
+ls -l
+ls -la
+cd docker/
+vagrant up
+vagrant ssh
